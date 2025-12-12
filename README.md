@@ -12,30 +12,43 @@ El desarrollo del software ayuda a comprender cómo operan estas tecnologías de
 
 Durante el análisis se identificaron:
 
--Entradas del usuario
--Estados del juego
--Reglas del sistema
--Validaciones
--Flujo completo del proceso
+Entradas del usuario
+
+Estados del juego
+
+Reglas del sistema
+
+Validaciones
+
+Flujo completo del proceso
 
 Se realizó un diagrama funcional del sistema, incluyendo:
 
--Inicio
--Selección de dificultad
--Selección aleatoria de palabra
--Procesamiento de letras
--Evaluación de victoria/derrota
--Resumen final
+Inicio
+
+Selección de dificultad
+
+Selección aleatoria de palabra
+
+Procesamiento de letras
+
+Evaluación de victoria/derrota
+
+Resumen final
 
 4. Desarrollo del Software
 
 El programa se construyó aplicando:
 
--Funciones puras
--Estructuras lógicas
--Manejo de errores
--Modularidad
--Lectura opcional de archivos
+Funciones puras
+
+Estructuras lógicas
+
+Manejo de errores
+
+Modularidad
+
+Lectura opcional de archivos
 
 Se implementó el Juego del Ahorcado con tres niveles de dificultad, validación de letras y registro de errores.
 El código completo se encuentra en el repositorio.
@@ -44,10 +57,13 @@ El código completo se encuentra en el repositorio.
 
 El software cumple con:
 
--Ejecución completa y sin errores
--Integración de las cuatro unidades de estudio
--Aplicación de principios de programación funcional
--Funcionalidades demostrables y consistentes
+Ejecución completa y sin errores
+
+Integración de las cuatro unidades de estudio
+
+Aplicación de principios de programación funcional
+
+Funcionalidades demostrables y consistentes
 
 Además, se realizaron pruebas de funcionamiento, verificando casos de entrada inválida, aciertos, errores y fin del juego.
 
@@ -55,17 +71,23 @@ Además, se realizaron pruebas de funcionamiento, verificando casos de entrada i
 
 La elaboración del software permite comprender:
 
--La importancia de la lógica computacional
--El valor de la programación funcional
--La forma en que la tecnología transforma procesos y sistemas
--El pensamiento estructurado detrás de las soluciones digitales
+La importancia de la lógica computacional
+
+El valor de la programación funcional
+
+La forma en que la tecnología transforma procesos y sistemas
+
+El pensamiento estructurado detrás de las soluciones digitales
 
 7. Limitaciones
 
--El programa funciona en consola
--No incluye interfaz gráfica
--La cantidad de palabras depende del archivo externo
--No maneja caracteres especiales o acentos
+El programa funciona en consola
+
+No incluye interfaz gráfica
+
+La cantidad de palabras depende del archivo externo
+
+No maneja caracteres especiales o acentos
 
 8. Conclusión
 
